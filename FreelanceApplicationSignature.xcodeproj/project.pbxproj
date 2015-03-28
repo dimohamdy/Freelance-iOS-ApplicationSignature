@@ -15,6 +15,7 @@
 		3DF701441AC6B41000C7F223 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3DF701421AC6B41000C7F223 /* LaunchScreen.xib */; };
 		3DF701501AC6B41000C7F223 /* FreelanceApplicationSignatureTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DF7014F1AC6B41000C7F223 /* FreelanceApplicationSignatureTests.m */; };
 		3DF7015B1AC6B42400C7F223 /* DMApplication.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DF7015A1AC6B42400C7F223 /* DMApplication.m */; };
+		3DF7015D1AC6CB0700C7F223 /* iOS Simulator Screen Shot Mar 28, 2015, 1.39.48 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DF7015C1AC6CB0700C7F223 /* iOS Simulator Screen Shot Mar 28, 2015, 1.39.48 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,7 @@
 		3DF7014F1AC6B41000C7F223 /* FreelanceApplicationSignatureTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FreelanceApplicationSignatureTests.m; sourceTree = "<group>"; };
 		3DF701591AC6B42400C7F223 /* DMApplication.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DMApplication.h; sourceTree = "<group>"; };
 		3DF7015A1AC6B42400C7F223 /* DMApplication.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DMApplication.m; sourceTree = "<group>"; };
+		3DF7015C1AC6CB0700C7F223 /* iOS Simulator Screen Shot Mar 28, 2015, 1.39.48 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iOS Simulator Screen Shot Mar 28, 2015, 1.39.48 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 		3DF701321AC6B41000C7F223 /* FreelanceApplicationSignature */ = {
 			isa = PBXGroup;
 			children = (
+				3DF7015C1AC6CB0700C7F223 /* iOS Simulator Screen Shot Mar 28, 2015, 1.39.48 PM.png */,
 				3DF701591AC6B42400C7F223 /* DMApplication.h */,
 				3DF7015A1AC6B42400C7F223 /* DMApplication.m */,
 				3DF701371AC6B41000C7F223 /* AppDelegate.h */,
@@ -206,6 +209,7 @@
 			files = (
 				3DF7013F1AC6B41000C7F223 /* Main.storyboard in Resources */,
 				3DF701441AC6B41000C7F223 /* LaunchScreen.xib in Resources */,
+				3DF7015D1AC6CB0700C7F223 /* iOS Simulator Screen Shot Mar 28, 2015, 1.39.48 PM.png in Resources */,
 				3DF701411AC6B41000C7F223 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
